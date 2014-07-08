@@ -1,0 +1,19 @@
+- Explain how the internet used to work
+- how javascript broke the web
+- how can we fix it? - get to this later
+- Show API we are going to be using
+    - meals/single meal
+    - dishes/single dish 
+    - ingredients
+- Start with simple meals select
+    - add change function and load initial data
+- Add dishes
+    - append values
+    - show/hide when selecting meal
+    - show bug when not removing options
+    - remove options
+- Add ingredients
+    - repeat steps for dishes above
+- refactor to separate js file cause that is how most people do it
+- Show why this is broken and how the URL doesn't do anything
+- What do you do when you find a problem? FIX IT!
